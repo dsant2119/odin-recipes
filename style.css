@@ -15,6 +15,10 @@
     font-size: 20px;
 }
 
+.font-style {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .paragraph {
     background-color: grey;
 }
