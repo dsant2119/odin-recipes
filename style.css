@@ -11,6 +11,10 @@
     font-size: 28px;
 }
 
+.font-size-medium {
+    font-size: 20px;
+}
+
 .paragraph {
     background-color: grey;
 }
